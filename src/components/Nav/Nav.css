@@ -1,0 +1,79 @@
+.nav-title {
+  text-align: center;
+  color: #f2f2f2;
+}
+.nav-title-admin {
+  text-align: center;
+  color: #f2f2f2;
+}
+.nav {
+  overflow: hidden;
+  background-color: #1f3556;
+  background-color: #fff;
+  margin: -10px 0px -10px 0px;
+}
+
+.logo {
+  width: 70px;
+}
+.nav-link {
+  float: left;
+  color: #1f3556;
+  background-color: #fff;
+  text-align: center;
+  margin: -65px 0px 0px 20px;
+  padding: 24px 30px 24px 0px;
+  text-decoration: none;
+  font: 500 15px Poppins, sans-serif;
+
+  /* these last two make the logout button in
+  the nav bar look like another link */
+  border: none;
+  cursor: pointer;
+  outline: 0;
+}
+.nav-link-csv {
+  float: left;
+  color: #1f3556;
+  background-color: #fff;
+  text-align: center;
+  margin: -90px 0px 0px 50px;
+  padding: 20px 24px 24px 0px;
+  text-decoration: none;
+  font: 500 15px Poppins, sans-serif;
+
+  /* these last two make the logout button in
+  the nav bar look like another link */
+  border: none;
+  cursor: pointer;
+  outline: 0;
+}
+.nav-link-csv:hover {
+  color: #a8dadc;
+}
+
+.nav-link:hover {
+  color: #a8dadc;
+}
+.nav-user-logout {
+  float: left;
+  color: #1f3556;
+  background-color: #fff;
+  text-align: center;
+  margin: -80px 0px 0px 50px;
+  padding: 24px 24px 24px 0px;
+  text-decoration: none;
+  font: 500 15px Poppins, sans-serif;
+
+  /* these last two make the logout button in
+  the nav bar look like another link */
+  border: none;
+  cursor: pointer;
+  outline: 0;
+}
+.nav-user-logout:hover {
+  color: #a8dadc;
+}
+.nav-right {
+  float: right;
+}
